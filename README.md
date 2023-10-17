@@ -7,8 +7,8 @@ Chatbot Line ( Nongcom-COMSCI-KUSRC )
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Scan Here](#Scan)
+- [Installation](#Installation)
+- [Scan Here](#Scanherewithlineforuseourbot)
 
 ## Introduction
 
@@ -41,5 +41,5 @@ cd your-repo
 # Install Lib
 pip install -r requirement.txt
 ```
-# Scan here with line for use our bot
+## Scan here with line for use our bot
 <img src="https://cdn.discordapp.com/attachments/1018901670916272189/1163716669001171016/Screenshot_196.png?ex=6540969a&is=652e219a&hm=2ae32b5e96ba4983d934eb7e0744ae958350f64616f939dc488c6d4bd894f1f5&" width="300">
